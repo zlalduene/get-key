@@ -1,0 +1,8 @@
+﻿  KEY.cpp
+D:\A___C++_project\KEY\KEY\KEY.cpp(100,57): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  正在生成代码
+  1 of 109 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  KEY.vcxproj -> D:\A___C++_project\KEY\x64\Release\KEY.exe

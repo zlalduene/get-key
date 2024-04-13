@@ -1,0 +1,3 @@
+﻿  KEY.cpp
+D:\A___C++_project\KEY\KEY\KEY.cpp(100,57): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  KEY.vcxproj -> D:\A___C++_project\KEY\x64\Debug\KEY.exe

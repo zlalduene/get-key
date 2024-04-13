@@ -1,0 +1,4 @@
+﻿  KEYHOOK.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\A___C++_project\KEYHOOK\KEYHOOK\KEYHOOK.cpp(54,18): warning C4244: “参数”: 从“LPARAM”转换到“LONG”，可能丢失数据
+  KEYHOOK.vcxproj -> D:\A___C++_project\KEYHOOK\x64\Debug\KEYHOOK.dll
